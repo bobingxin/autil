@@ -4,6 +4,7 @@ import android.content.Context;
 
 /**
  * Created by bbx on 2017/3/23.
+ * 用来获取全局context
  */
 
 public class Utils {
